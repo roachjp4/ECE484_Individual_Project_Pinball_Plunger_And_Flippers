@@ -1,0 +1,2 @@
+# ECE484_Individual_Project_Pinball_Plunger_And_Flippers
+Please see the repository wiki.
